@@ -26,8 +26,8 @@ button h1{
 }
 
 button:hover{
-    background: #e9f1f1;
+    background: #8cd3d3;
     cursor: pointer;
     transform: scale(1.05);
-    border: 1px solid #0009;
+    border: 1px solid rgba(0, 0, 0, 0.721);
 }
